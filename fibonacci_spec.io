@@ -16,11 +16,11 @@ it (
 	)
 
 it (
-	"Should know the third Fibonacci number is 1",
+	"Should know the fourth Fibonacci number is 2",
 	assertEquals(Fib request(4), 2)
 	)
 
 it (
-	"Should know the third Fibonacci number is 1",
+	"Should know the tenth Fibonacci number is 34",
 	assertEquals(Fib request(10), 34)
 	)
